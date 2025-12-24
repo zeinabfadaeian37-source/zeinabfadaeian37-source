@@ -21,6 +21,6 @@ I am a passionate Front-End Developer dedicated to crafting clean, smooth, and u
 
 ### 📫 Let's Connect
 - **Email:** [zeinabfadaeian37@gmail.com]
-- **LinkedIn:** [https://www.linkedin.com/in/zeinabfadaeian/]
+- **LinkedIn:** [www.linkedin.com/in/zeinabfadaeian]
 
 ---
