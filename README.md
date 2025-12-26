@@ -1,9 +1,8 @@
-# سلام، من زینب هستم! 👋
+Hi, I'm Zeynab! 👋
 
-من یک توسعه‌دهنده فرانت‌اِند هستم که به طراحی رابط‌های کاربری مدرن علاقه دارم.
+I'm a front-end developer who loves designing modern user interfaces.
 
-## 📊 آمار فعالیت من در گیت‌هاب
+📊 My GitHub Activity
 <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=zeinabfadaeian37-source&show_icons=true&theme=radical" alt="GitHub Stats" />
-
-## 🚀 زبان‌های برنامه‌نویسی مورد استفاده
+🚀 Top Programming Languages
 <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=zeinabfadaeian37-source&layout=compact&theme=radical" alt="Top Langs" />
