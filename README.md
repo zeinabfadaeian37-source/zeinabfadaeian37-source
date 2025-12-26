@@ -23,4 +23,4 @@ I am a passionate Front-End Developer dedicated to crafting clean, smooth, and u
 - Email: [zeinabfadaeian37@gmail.com]
 - LinkedIn: [www.linkedin.com/in/zeinabfadaeian]
 
----
+---# <p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hello%20I'm%20Zeinab&fontSize=70&animation=fadeIn&fontAlignY=35" /></p>
