@@ -1,4 +1,4 @@
-# <p align="center"><img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=gradient&customColorList=ffc8dd,ffafcc,fb6f92,ffb3c1,ff85a1&text=Hello%20I'm%20Zeinab&fontSize=80&fontAlignY=50&animType=color&animDuration=3" /></p>
+# <p align="center"><img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=gradient&customColorList=800020,9b111e,722f37,5e1914,a52a2a&text=Hello%20I'm%20Zeinab&fontSize=80&fontAlignY=50&animType=color&animDuration=3" /></p>
 ---
 
 ### 🛠️ My Tech Stack
