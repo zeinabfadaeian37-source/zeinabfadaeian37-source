@@ -1,33 +1,26 @@
-Hi, I'm Zeynab! 👋
+# Hi, I'm Zeinab! 👋
 
-I'm a front-end developer who loves designing modern user interfaces.
+### Junior Front-End Developer
+I am a passionate Front-End Developer dedicated to crafting clean, smooth, and user-friendly web experiences. I love turning complex problems into elegant interface designs.
 
-📊 My GitHub Activity
+---
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=zeinabfadaeian37-source&show_icons=true&theme=radical" alt="GitHub Stats" />
+### 🛠️ My Tech Stack
+- Languages: HTML5, CSS3, JavaScript (ES6+)
+- Styling: Responsive Design, Flexbox, CSS Grid
+- Tools & Workflow: Git, GitHub, VS Code, Terminal
+- Focus: Performance, Clean Code, User Experience
 
-🚀 Top Programming Languages
+---
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=zeinabfadaeian37-source&layout=compact&theme=radical" alt="Top Langs" />
+### 📚 Currently Learning
+- Deepening my knowledge in React.js and Modern Frameworks.
+- Exploring Tailwind CSS for faster and more efficient styling.
 
-## 🛠 My Tech Stack
-<p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white" />
-</p>
+---
 
-## 🌐 Connect with Me
+### 📫 Let's Connect
+- Email: [zeinabfadaeian37@gmail.com]
+- LinkedIn: [www.linkedin.com/in/zeinabfadaeian]
 
-<p align="left">
-<a href="https://t.me/Fadaeian_dev" target="_blank">
-  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
-</a>
-<a href="https://www.linkedin.com/in/zeinabfadaeian" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="mailto:zeinabfadaeian37@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-</a>
-</p>
+---
