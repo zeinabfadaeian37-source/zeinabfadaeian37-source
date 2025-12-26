@@ -1,5 +1,4 @@
-<p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hello%20I'm%20Zeinab&fontSize=70&animation=fadeIn&fontAlignY=35" /></p>
-
+# <p align="center"><img src="https://capsule-render.vercel.app/api?type=soft&bgDot=false&color=gradient&customColorList=10&text=Hello%20I'm%20Zeinab&fontSize=70&animation=fadeIn&fontAlignY=50" /></p>
 ### Junior Front-End Developer
 I am a passionate Front-End Developer dedicated to crafting clean, smooth, and user-friendly web experiences. I love turning complex problems into elegant interface designs.
 
