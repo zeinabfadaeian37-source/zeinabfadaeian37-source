@@ -1,5 +1,4 @@
-# <p align="center"><img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=gradient&customColorList=10&text=Hello%20I'm%20Zeinab&fontSize=70&fontAlignY=50&animType=color&animDuration=2" /></p>I am a passionate Front-End Developer dedicated to crafting clean, smooth, and user-friendly web experiences. I love turning complex problems into elegant interface designs.
-
+# <p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=00000000&fontColor=gradient&customColorList=10&text=Hello%20I'm%20Zeinab&fontSize=70&fontAlignY=50&animType=color&animDuration=3" /></p>
 ---
 
 ### 🛠️ My Tech Stack
