@@ -1,9 +1,15 @@
 # سلام، من زینب هستم! 👋
 
-من یک توسعه‌دهنده فرانت‌اِند هستم که عاشق طراحی رابط‌های کاربری زیبا مثل این ماشین‌حساب هستم.
+من یک توسعه‌دهنده فرانت‌اِند هستم که به طراحی رابط‌های کاربری مدرن (مثل پروژه ماشین‌حساب) علاقه دارم.
 
-## 📊 آمار فعالیت‌های من در گیت‌هاب
-![آمار کلی](https://github-readme-stats.vercel.app/api?username=zeinabfadaeian37-source&show_icons=true&theme=radical)
+## 📊 آمار فعالیت من در گیت‌هاب
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=zeinabfadaeian37-source&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
 
-## 🚀 زبان‌هایی که بیشتر استفاده می‌کنم
-![زبان‌های برتر](https://github-readme-stats.vercel.app/api/top-langs/?username=zeinabfadaeian37-source&layout=compact&theme=radical)
+## 🚀 زبان‌های برنامه‌نویسی مورد استفاده
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeinabfadaeian37-source&layout=compact&theme=radical" alt="Top Langs" />
+</p>
+
+---
